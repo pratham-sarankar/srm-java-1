@@ -3,3 +3,4 @@ function print() {
 }
 
 print();
+print("this is sathvik");
