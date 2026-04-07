@@ -4,3 +4,4 @@ function print() {
 
 print();
 print("this is sathvik");
+print("this is sathvik", "this is sathvik");
